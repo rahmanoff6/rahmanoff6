@@ -13,7 +13,7 @@
 <!-- ==================== INTRODUCTION ==================== -->
 
 <h2 align="center">
-  🚀 YOUR PROFESSIONAL TITLE | YOUR SPECIALIZATION | YOUR INTEREST
+    Programmer | Cybersecurity Initiative | Systems Security
 </h2>
 
 <br>
