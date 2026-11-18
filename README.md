@@ -12,9 +12,9 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-<h3>🎓 Computer Science student specializing in <b>Cybersecurity</b>, with interests in <b>Software Engineering</b> and <b>Artificial Intelligence</b>.</h3>
+<h2>🎓 Computer Science student specializing in <b>Cybersecurity</b>, with interests in <b>Software Engineering</b> and <b>Artificial Intelligence</b>.</h2>
 
 <p>
 <img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
@@ -23,14 +23,14 @@
 <img src="https://img.shields.io/badge/FOUNDER%20%C2%B7%20ICTI-F59E0B?style=for-the-badge" alt="Founder ICTI"/>
 </p>
 
-<h4>🏢 Founder &amp; CEO of <b>ICTI</b></h4>
-<h4>🛡️ Developing <b>CyberShield</b> — an AI-powered cybersecurity platform</h4>
-<h4>🔍 Exploring <b>Security Engineering</b>, <b>Network Security</b>, and <b>Vulnerability Research</b></h4>
-<h4>⚙️ Working with <b>C++</b>, <b>Python</b>, and modern security technologies</h4>
-<h4>🔬 Interested in <b>research</b>, <b>engineering</b>, and <b>technology development</b></h4>
+<h3>🏢 Founder &amp; CEO of <b>ICTI</b></h3>
+<h3>🛡️ Developing <b>CyberShield</b> — an AI-powered cybersecurity platform</h3>
+<h3>🔍 Exploring <b>Security Engineering</b>, <b>Network Security</b>, and <b>Vulnerability Research</b></h3>
+<h3>⚙️ Working with <b>C++</b>, <b>Python</b>, and modern security technologies</h3>
+<h3>🔬 Interested in <b>research</b>, <b>engineering</b>, and <b>technology development</b></h3>
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/HizIsewA7mYWz7CwRf/giphy.gif" width="260" alt="code rain"/>
 
@@ -79,7 +79,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:047857,100:10B981&height=70&section=header&text=STATS%20%26%20ACTIVITY&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%" alt="STATS & ACTIVITY"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:047857,100:10B981&height=70&section=header&text=ACTIVITY&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%" alt="ACTIVITY"/>
 
 <p align="center">
 <img src="https://quickchart.io/chart?v=3&w=760&h=340&devicePixelRatio=2&bkg=%230d1117&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Programming%20%26%20Web%20(7)%22%2C%22AI%20%26%20Data%20(4)%22%2C%22Security%20%26%20Networking%20(3)%22%2C%22OS%20%26%20Dev%20Tools%20(3)%22%2C%22Hardware%20%26%20Analytics%20(2)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B7%2C4%2C3%2C3%2C2%5D%2C%22backgroundColor%22%3A%5B%22%2300B4D8%22%2C%22%238B5CF6%22%2C%22%2310B981%22%2C%22%23F59E0B%22%2C%22%23EC4899%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2255%25%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Toolbox%20by%20category%22%2C%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A26%7D%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23fff%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D" width="760" alt="Toolbox by category"/>
