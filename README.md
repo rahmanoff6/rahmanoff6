@@ -16,7 +16,7 @@
 <!-- ROW 1 -->
 <tr align="center">
 
-<td width="20%">
+<td width="50%">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="62">
 </td>
 
