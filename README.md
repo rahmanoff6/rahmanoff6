@@ -12,7 +12,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🖐️ About Me
+###  About Me
 
 Computer Science student specializing in Cybersecurity, with interests in Software Engineering and Artificial Intelligence.
 
