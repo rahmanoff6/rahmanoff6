@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Akbar%20Abdurahmonov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Software&descSize=18&descAlignY=60" width="100%" alt="banner"/>
 
@@ -11,8 +11,7 @@
 <td width="62%" align="center" valign="top">
 
 <p>
-<img src="assets/spacer.svg" width="1" height="40" alt=""/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+<img src="assets/spacer.svg" width="1" height="40" alt=""/><img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI and ML"/>
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Software Engineering"/>
 <img src="https://img.shields.io/badge/ROBOTICS%20%26%20DRONES-F97316?style=for-the-badge&logo=dji&logoColor=white" alt="Robotics and Drones"/>
