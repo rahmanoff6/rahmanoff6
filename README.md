@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&pause=1000&color=8B0000&center=true&vCenter=true&width=700&height=80&lines=Hello+,+Friend+!" alt="Hello , Friend !" />
 
-<h2>Cybersecurity Initiative &nbsp;|&nbsp; AI &amp; Machine Learning &nbsp;|&nbsp; Software Developer</h2>
+<h2>| Web Security | Threat Intelligence | Vulnerability Research |<br>| Junior SOC Analyst |</h2>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B6,100:00B4D8&height=70&section=header&text=ABOUT%20ME&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%" alt="ABOUT ME"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B6,100:00B4D8&height=48&section=header&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="ABOUT ME"/>
 
 <table>
 <tr>
@@ -40,20 +40,14 @@
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/65BKJvS0ONkIAOOiJz/giphy.gif" width="280" alt="coding"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:8B5CF6&height=70&section=header&text=TECH%20STACK&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%" alt="TECH STACK"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:8B5CF6&height=48&section=header&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="TECH STACK"/>
 
 <table align="center">
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" width="78" alt="Git"/></td>
-<td align="center"><img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="114" alt="Ubuntu"/></td>
 <td align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="83" alt="C++"/></td>
+<td align="center"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" width="78" alt="Git"/></td>
 <td align="center"><img src="https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="141" alt="Kali Linux"/></td>
+<td align="center"><img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="114" alt="Ubuntu"/></td>
 <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="101" alt="HTML5"/></td>
 </tr>
 <tr>
@@ -79,7 +73,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:047857,100:10B981&height=70&section=header&text=ACTIVITY&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%" alt="ACTIVITY"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:047857,100:10B981&height=48&section=header&text=ACTIVITY&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="ACTIVITY"/>
 
 <p align="center">
 <img src="https://quickchart.io/chart?v=3&w=760&h=340&devicePixelRatio=2&bkg=%230d1117&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Programming%20%26%20Web%20(7)%22%2C%22AI%20%26%20Data%20(4)%22%2C%22Security%20%26%20Networking%20(3)%22%2C%22OS%20%26%20Dev%20Tools%20(3)%22%2C%22Hardware%20%26%20Analytics%20(2)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B7%2C4%2C3%2C3%2C2%5D%2C%22backgroundColor%22%3A%5B%22%2300B4D8%22%2C%22%238B5CF6%22%2C%22%2310B981%22%2C%22%23F59E0B%22%2C%22%23EC4899%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2255%25%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Toolbox%20by%20category%22%2C%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A26%7D%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23fff%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D" width="760" alt="Toolbox by category"/>
@@ -97,4 +91,4 @@
 <img src="https://komarev.com/ghpvc/?username=rahmanoff6&color=0077B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer&text=Stay%20curious.%20Stay%20secure.&fontColor=ffffff&fontSize=24&fontAlignY=65" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
