@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:120a2e,100:2e1065&height=160&section=header&text=Akbar%20Abdurahmonov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Software&descSize=18&descAlignY=60" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Akbar%20Abdurahmonov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Software&descSize=18&descAlignY=60" width="100%" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&pause=1000&color=8B0000&center=true&vCenter=true&width=700&height=80&lines=Hello+,+Friend+!" alt="Hello , Friend !" />
 
@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1e0b3c,100:4c1d95&height=48&section=header&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="ABOUT ME"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B6,100:00B4D8&height=48&section=header&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="ABOUT ME"/>
 
 <table>
 <tr>
@@ -35,7 +35,7 @@
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="digital padlock"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=400&height=110&lines=%3E+whoami;%3E+Founder+%26+CEO+%40+ICTI;%3E+building+CyberShield;%3E+labs%3A+TryHackMe+%7C+HackTheBox;%3E+research.+defend.+evolve." alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00D9F5&center=true&vCenter=true&width=400&height=110&lines=%3E+whoami;%3E+Founder+%26+CEO+%40+ICTI;%3E+building+CyberShield;%3E+labs%3A+TryHackMe+%7C+HackTheBox;%3E+research.+defend.+evolve." alt="terminal"/>
 
 </td>
 </tr>
@@ -46,8 +46,6 @@
 <br>
 
 <h3>Working with Virtual Machines through TryHackMe and HackTheBox platforms</h3>
-
-<img src="assets/labs.svg" width="800" alt="Hacking Labs: TryHackMe, HackTheBox, LabEx, ZTW26"/>
 
 <p>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
@@ -67,7 +65,7 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0b1d51,100:3b0764&height=48&section=header&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="TECH STACK"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:8B5CF6&height=48&section=header&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="TECH STACK"/>
 
 <table align="center">
 <tr>
@@ -110,11 +108,11 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rahmanoff6&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="495" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=rahmanoff6&theme=dark&hide_border=true&background=0D1117&ring=00D9F5&fire=00F5A0&currStreakLabel=00D9F5&sideLabels=7F00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="495" alt="Streak stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanoff6&bg_color=0d1117&color=C4B5FD&line=8B5CF6&point=ffffff&area=true&area_color=4C1D95&hide_border=true&title_color=ffffff" width="100%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanoff6&bg_color=0d1117&color=00D9F5&line=00F5A0&point=ffffff&area=true&area_color=7F00FF&hide_border=true&title_color=ffffff" width="100%" alt="Activity graph"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,100:000000&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
