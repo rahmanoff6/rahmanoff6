@@ -17,13 +17,13 @@
 <img src="https://img.shields.io/badge/ROBOTICS%20%26%20DRONES-F97316?style=for-the-badge&logo=dji&logoColor=white" alt="Robotics and Drones"/>
 </p>
 
-<h2><img src="assets/icti.png" height="42" align="absmiddle" alt="ICTI"/>&nbsp; <b>Founder &amp; CEO</b></h2>
-<p>International Cybersecurity and Technology Institute</p>
+<h1><img src="assets/icti.png" height="50" align="absmiddle" alt="ICTI"/>&nbsp; <b>Founder &amp; CEO</b></h1>
+<h3>International Cybersecurity and Technology Institute</h3>
 
 <div align="left">
 
-<h3>Core Domains</h3>
-<p>• Systems &amp; Web-Security<br>• Vulnerability Research &amp; Penetration Testing<br>• Threat Intelligence &amp; Defensive Security<br>• Artificial Intelligence, Machine Learning &amp; Deep Learning<br>• Competitive Programming &amp; Algorithmic Problem-Solving<br>• Robotics &amp; Drones</p>
+<h2>Core Domains</h2>
+<img src="assets/domains.svg" width="489" alt="Systems &amp; Web-Security · Vulnerability Research &amp; Penetration Testing · Threat Intelligence &amp; Defensive Security · Artificial Intelligence, Machine Learning &amp; Deep Learning · Competitive Programming &amp; Algorithmic Problem-Solving · Robotics &amp; Drones"/>
 
 </div>
 
