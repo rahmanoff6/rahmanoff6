@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&pause=1000&color=8B0000&center=true&vCenter=true&width=700&height=80&lines=Hello+,+Friend+!" alt="Hello , Friend !" />
 
-<h2>| Web Security | Threat Intelligence | Vulnerability Research |<br>| Junior SOC Analyst |</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=400&color=00D9F5&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=90&lines=%7C+Web+Security+%7C+Threat+Intelligence+%7C+Vulnerability+Research+%7C;%7C+Junior+SOC+Analyst+%7C" alt="Web Security | Threat Intelligence | Vulnerability Research | Junior SOC Analyst"/>
 
 </div>
 
@@ -14,27 +14,36 @@
 <tr>
 <td width="62%" valign="top">
 
-<h2>🎓 Computer Science student specializing in <b>Cybersecurity</b>, with interests in <b>Software Engineering</b> and <b>Artificial Intelligence</b>.</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" alt=""/> Hey, I'm Akbar.</h2>
+<h3><i>I think like an attacker — so I can build like a defender.</i></h3>
+<p>Computer Science student driven by one question: <b><i>"how would someone break this — and how do I stop them?"</i></b> I chase that answer in hacking labs, in code, and in the AI I build to catch threats before they land.</p>
 
 <p>
 <img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI and ML"/>
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/FOUNDER%20%C2%B7%20ICTI-F59E0B?style=for-the-badge" alt="Founder ICTI"/>
 </p>
 
-<h3>🏢 Founder &amp; CEO of <b>ICTI</b></h3>
-<h3>🛡️ Developing <b>CyberShield</b> — an AI-powered cybersecurity platform</h3>
-<h3>🔍 Exploring <b>Security Engineering</b>, <b>Network Security</b>, and <b>Vulnerability Research</b></h3>
-<h3>⚙️ Working with <b>C++</b>, <b>Python</b>, and modern security technologies</h3>
-<h3>🔬 Interested in <b>research</b>, <b>engineering</b>, and <b>technology development</b></h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="30" alt=""/> Founder &amp; CEO of <b>International Cybersecurity and Technology Institute • ICTI</b></h3>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" alt=""/> Developing <b>CyberShield</b> — AI-powered cyber-threat defense</h3>
+<p>A local-first platform that hunts <b>phishing links, deepfakes, ransomware notes, malicious files</b> and <b>memory-dump anomalies</b> with its own ML models (<b>PhishGuard · MemGuard · DeepEye</b>) and a local LLM. It maps live threats from public intel feeds and backs every verdict with the exact evidence behind it — no black boxes.</p>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="30" alt=""/> Working with <b>Virtual Machines</b> through <b>TryHackMe</b> and <b>HackTheBox</b> platforms</h3>
+<p>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
+</p>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="30" alt=""/> Research &amp; growth</h3>
+<p>Committed to continuous development in cybersecurity and computer science, with a particular interest in advancing security technologies, conducting technical research, and contributing to solutions that address evolving digital threats.</p>
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/HizIsewA7mYWz7CwRf/giphy.gif" width="260" alt="code rain"/>
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="digital padlock"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=380&height=110&lines=%3E+whoami;%3E+CS+student+%7C+Cybersecurity;%3E+Founder+%26+CEO+of+ICTI;%3E+building+CyberShield" alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00D9F5&center=true&vCenter=true&width=400&height=110&lines=%3E+whoami;%3E+Founder+%26+CEO+%40+ICTI;%3E+building+CyberShield;%3E+labs%3A+TryHackMe+%7C+HackTheBox;%3E+research.+defend.+evolve." alt="terminal"/>
 
 </td>
 </tr>
@@ -48,7 +57,7 @@
 <td align="center"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" width="78" alt="Git"/></td>
 <td align="center"><img src="https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="141" alt="Kali Linux"/></td>
 <td align="center"><img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="114" alt="Ubuntu"/></td>
-<td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="101" alt="HTML5"/></td>
+<td align="center"><img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" width="91" alt="Bash"/></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="99" alt="Linux"/></td>
@@ -60,35 +69,34 @@
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="110" alt="Kaggle"/></td>
 <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="66" alt="CSS3"/></td>
-<td align="center"><img src="https://img.shields.io/badge/SYSTEM%20ANALYTICS-F46800?style=for-the-badge&logo=grafana&logoColor=white" width="202" alt="System Analytics"/></td>
+<td align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" width="60" alt="C"/></td>
 <td align="center"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="146" alt="JavaScript"/></td>
 <td align="center"><img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="144" alt="Wireshark"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" width="91" alt="Bash"/></td>
-<td align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" width="60" alt="C"/></td>
+<td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="101" alt="HTML5"/></td>
+<td align="center"><img src="https://img.shields.io/badge/SYSTEM%20ANALYTICS-F46800?style=for-the-badge&logo=grafana&logoColor=white" width="202" alt="System Analytics"/></td>
 <td align="center"><img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" width="162" alt="HuggingFace"/></td>
 <td align="center"><img src="https://img.shields.io/badge/ARDUINO-00878F?style=for-the-badge&logo=arduino&logoColor=white" width="123" alt="Arduino"/></td>
 <td></td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:047857,100:10B981&height=48&section=header&text=ACTIVITY&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="ACTIVITY"/>
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F5A0,50:00D9F5,100:7F00FF&height=48&section=header&text=ACTIVITY&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=twinkling" width="100%" alt="ACTIVITY"/>
 
 <p align="center">
 <img src="https://quickchart.io/chart?v=3&w=760&h=340&devicePixelRatio=2&bkg=%230d1117&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Programming%20%26%20Web%20(7)%22%2C%22AI%20%26%20Data%20(4)%22%2C%22Security%20%26%20Networking%20(3)%22%2C%22OS%20%26%20Dev%20Tools%20(3)%22%2C%22Hardware%20%26%20Analytics%20(2)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B7%2C4%2C3%2C3%2C2%5D%2C%22backgroundColor%22%3A%5B%22%2300B4D8%22%2C%22%238B5CF6%22%2C%22%2310B981%22%2C%22%23F59E0B%22%2C%22%23EC4899%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2255%25%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Toolbox%20by%20category%22%2C%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A26%7D%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23fff%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D" width="760" alt="Toolbox by category"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rahmanoff6&theme=dark&hide_border=true&background=0D1117&ring=00B4D8&fire=F59E0B&currStreakLabel=00B4D8&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="495" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=rahmanoff6&theme=dark&hide_border=true&background=0D1117&ring=00D9F5&fire=00F5A0&currStreakLabel=00D9F5&sideLabels=7F00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="495" alt="Streak stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanoff6&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&area_color=0077B6&hide_border=true&title_color=ffffff" width="100%" alt="Activity graph"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rahmanoff6&color=0077B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanoff6&bg_color=0d1117&color=00D9F5&line=00F5A0&point=ffffff&area=true&area_color=7F00FF&hide_border=true&title_color=ffffff" width="100%" alt="Activity graph"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
