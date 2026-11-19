@@ -2,17 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Akbar%20Abdurahmonov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Software&descSize=18&descAlignY=60" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&pause=1000&color=8B0000&center=true&vCenter=true&width=700&height=80&lines=Hello+,+Friend+!" alt="Hello , Friend !" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=8B0000&center=true&vCenter=true&width=600&height=70&lines=Hello+,+Friend+!" alt="Hello , Friend !" />
 
-<img src="assets/roles.svg" width="800" alt="Web Security · Threat Intelligence · Vulnerability Research · Junior SOC Analyst"/>
+<img src="assets/roles.svg" width="800" alt="Web Security · Threat Intelligence · Vulnerability Research"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B6,100:00B4D8&height=48&section=header&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="ABOUT ME"/>
-
 <table>
 <tr>
-<td width="62%" align="center" valign="top">
+<td width="62%" align="center" valign="middle">
 
 <p>
 <img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
@@ -23,19 +21,12 @@
 <h2><img src="assets/icti.png" height="42" align="absmiddle" alt="ICTI"/>&nbsp; <b>Founder &amp; CEO</b></h2>
 <p>International Cybersecurity and Technology Institute</p>
 
-<br>
-
-<h2><b>CyberShield</b></h2>
-<p><i>AI-powered cyber-threat defense</i></p>
-
-<img src="assets/cybershield.svg" width="480" alt="A local-first platform that hunts phishing links, deepfakes, ransomware notes, malicious files and memory-dump anomalies with its own ML models (PhishGuard · MemGuard · DeepEye) and a local LLM. It maps live threats from public intel feeds and backs every verdict with the exact evidence behind it — no black boxes."/>
-
 </td>
 <td width="38%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="digital padlock"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00D9F5&center=true&vCenter=true&width=400&height=110&lines=%3E+whoami;%3E+Founder+%26+CEO+%40+ICTI;%3E+building+CyberShield;%3E+labs%3A+TryHackMe+%7C+HackTheBox;%3E+research.+defend.+evolve." alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00D9F5&center=true&vCenter=true&width=400&height=110&lines=%3E+Kiddo;%3E+Founder+%26+CEO+of+ICTI;%3E+building+CyberShield;%3E+labs%3A+TryHackMe%2C+HackTheBox%2C+LabEx%2C;%3E+ZTW26%2C+CyberClash;%3E+Tyrell+Wellick+%7C+Phillip+Price" alt="terminal"/>
 
 </td>
 </tr>
@@ -45,20 +36,21 @@
 
 <br>
 
-<h3>Working with Virtual Machines through TryHackMe and HackTheBox platforms</h3>
+<h3>Virtualization Based Lab Environments</h3>
 
 <p>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 <a href="https://www.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/></a>
 <a href="https://labex.io"><img src="https://img.shields.io/badge/LabEx-2E7EEE?style=for-the-badge&logo=labex&logoColor=white" alt="LabEx"/></a>
 <a href="https://ztw.ctbb.show/#home"><img src="https://img.shields.io/badge/ZTW26%20%C3%97%20CRITICAL%20THINKING-4FA3D9?style=for-the-badge" alt="ZTW26"/></a>
+<a href="https://cyberclash.io/"><img src="https://img.shields.io/badge/CYBER-CLASH-A855F7?style=for-the-badge&labelColor=0891B2" alt="CyberClash"/></a>
 </p>
 
 <br>
 
 <h2><b>Research &amp; Growth</b></h2>
 
-<img src="assets/research.svg" width="480" alt="Committed to continuous development in cybersecurity and computer science, with a particular interest in advancing security technologies, conducting technical research, and contributing to solutions that address evolving digital threats."/>
+<img src="assets/research.svg" width="780" alt="Committed to continuous development in cybersecurity and computer science, with a particular interest in advancing security technologies, conducting technical research, and contributing to solutions that address evolving digital threats."/>
 
 </div>
 
@@ -101,7 +93,7 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0b1d51,100:4c1d95&height=48&section=header&text=ACTIVITY&fontSize=24&fontColor=ffffff&fontAlignY=52&animation=twinkling" width="100%" alt="ACTIVITY"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:064E3B,100:10B981&height=48&section=header&text=ACTIVITY&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="ACTIVITY"/>
 
 <p align="center">
 <img src="https://quickchart.io/chart?v=3&w=760&h=340&devicePixelRatio=2&bkg=%230d1117&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Programming%20%26%20Web%20(7)%22%2C%22AI%20%26%20Data%20(4)%22%2C%22Security%20%26%20Networking%20(3)%22%2C%22OS%20%26%20Dev%20Tools%20(3)%22%2C%22Hardware%2C%20Design%20%26%20Analytics%20(3)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B7%2C4%2C3%2C3%2C3%5D%2C%22backgroundColor%22%3A%5B%22%2300B4D8%22%2C%22%238B5CF6%22%2C%22%2310B981%22%2C%22%23F59E0B%22%2C%22%23EC4899%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2255%25%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Toolbox%20by%20category%22%2C%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A26%7D%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23fff%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D" width="760" alt="Toolbox by category"/>
