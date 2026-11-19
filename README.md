@@ -53,7 +53,7 @@
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 <a href="https://www.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/></a>
 <a href="https://labex.io"><img src="https://img.shields.io/badge/LabEx-2E7EEE?style=for-the-badge&logo=labex&logoColor=white" alt="LabEx"/></a>
-<a href="https://ztw.ctbb.show/#home"><img src="https://img.shields.io/badge/ZTW26-0F172A?style=for-the-badge&logoColor=white" alt="ZTW26"/></a>
+<a href="https://ztw.ctbb.show/#home"><img src="https://img.shields.io/badge/ZTW26%20%C3%97%20CRITICAL%20THINKING-4FA3D9?style=for-the-badge" alt="ZTW26"/></a>
 </p>
 
 <br>
@@ -63,6 +63,9 @@
 <img src="assets/research.svg" width="480" alt="Committed to continuous development in cybersecurity and computer science, with a particular interest in advancing security technologies, conducting technical research, and contributing to solutions that address evolving digital threats."/>
 
 </div>
+
+<br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0b1d51,100:3b0764&height=48&section=header&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="TECH STACK"/>
 
