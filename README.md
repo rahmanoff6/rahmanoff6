@@ -10,15 +10,14 @@
 <tr>
 <td width="62%" align="center" valign="top">
 
-<p>
-<img src="assets/spacer.svg" width="1" height="40" alt=""/><img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI and ML"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/ROBOTICS%20%26%20DRONES-F97316?style=for-the-badge&logo=dji&logoColor=white" alt="Robotics and Drones"/>
-</p>
+<p><img src="assets/icti.png" height="50" align="absmiddle" alt="ICTI"/>&nbsp;&nbsp;<img src="assets/founder.svg" width="230" align="absmiddle" alt="Founder &amp; CEO"/></p>
+
+<h3>International Cybersecurity and Technology Institute</h3>
+
+<img src="assets/icti_details.svg" width="476" alt="Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
 
 </td>
-<td width="38%" rowspan="3" align="center" valign="middle">
+<td width="38%" rowspan="2" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="digital padlock"/>
 
@@ -27,21 +26,16 @@
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
-
-<p><img src="assets/icti.png" height="50" align="absmiddle" alt="ICTI"/>&nbsp;&nbsp;<img src="assets/founder.svg" width="230" align="absmiddle" alt="Founder &amp; CEO"/></p>
-
-<h3>International Cybersecurity and Technology Institute</h3>
-
-<img src="assets/icti_overview.svg" width="476" alt="Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
-
-</td>
-</tr>
-<tr>
 <td align="left" valign="top">
 
-<h2>My Core Domains</h2>
-<p><i>Personal skills and interests</i></p>
+<h2 align="center"><b>Personal Core Domains</b></h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI and ML"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/ROBOTICS%20%26%20DRONES-F97316?style=for-the-badge&logo=dji&logoColor=white" alt="Robotics and Drones"/>
+</p>
 
 <img src="assets/domains.svg" width="489" alt="Systems &amp; Web-Security · Vulnerability Research &amp; Penetration Testing · Threat Intelligence &amp; Defensive Security · Artificial Intelligence, Machine Learning &amp; Deep Learning · Competitive Programming &amp; Algorithmic Problem-Solving · Robotics &amp; Drones"/>
 
