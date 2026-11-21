@@ -33,7 +33,7 @@
 
 <h3>International Cybersecurity and Technology Institute</h3>
 
-<img src="assets/icti_info.svg" width="476" alt="ICTI is a technology focused institute dedicated to exploring, researching, and advancing the fields of cybersecurity and technology. Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Commitment: Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
+<img src="assets/icti_about.svg" width="476" alt="ICTI is a technology focused institute dedicated to exploring, researching, and advancing the fields of cybersecurity and technology. Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Commitment: Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
 
 </td>
 </tr>
