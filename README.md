@@ -33,14 +33,16 @@
 
 <h3>International Cybersecurity and Technology Institute</h3>
 
-<img src="assets/icti_about.svg" width="476" alt="ICTI is a technology focused institute dedicated to exploring, researching, and advancing the fields of cybersecurity and technology. Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Commitment: Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
+<img src="assets/icti_overview.svg" width="476" alt="Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
 
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 
-<h2>Core Domains</h2>
+<h2>My Core Domains</h2>
+<p><i>Personal skills and interests</i></p>
+
 <img src="assets/domains.svg" width="489" alt="Systems &amp; Web-Security · Vulnerability Research &amp; Penetration Testing · Threat Intelligence &amp; Defensive Security · Artificial Intelligence, Machine Learning &amp; Deep Learning · Competitive Programming &amp; Algorithmic Problem-Solving · Robotics &amp; Drones"/>
 
 </td>
