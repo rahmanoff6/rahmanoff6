@@ -17,22 +17,31 @@
 <img src="https://img.shields.io/badge/ROBOTICS%20%26%20DRONES-F97316?style=for-the-badge&logo=dji&logoColor=white" alt="Robotics and Drones"/>
 </p>
 
-<h1><img src="assets/icti.png" height="50" align="absmiddle" alt="ICTI"/>&nbsp; <b>Founder &amp; CEO</b></h1>
-<h3>International Cybersecurity and Technology Institute</h3>
-
-<div align="left">
-
-<h2>Core Domains</h2>
-<img src="assets/domains.svg" width="489" alt="Systems &amp; Web-Security · Vulnerability Research &amp; Penetration Testing · Threat Intelligence &amp; Defensive Security · Artificial Intelligence, Machine Learning &amp; Deep Learning · Competitive Programming &amp; Algorithmic Problem-Solving · Robotics &amp; Drones"/>
-
-</div>
-
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="38%" rowspan="3" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="digital padlock"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00D9F5&center=true&vCenter=true&width=400&height=110&lines=%3E+Founder+%26+CEO+of+ICTI;%3E+building+CyberShield;%3E+labs%3A+TryHackMe%2C+HackTheBox%2C+LabEx%2C;%3E+ZTW26%2C+CyberClash;%3E+Reminder%3A;It's+not+good+to+be+different%2C;It's+better+to+be+different." alt="terminal"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+<p><img src="assets/icti.png" height="50" align="absmiddle" alt="ICTI"/>&nbsp;&nbsp;<img src="assets/founder.svg" width="230" align="absmiddle" alt="Founder &amp; CEO"/></p>
+
+<h3>International Cybersecurity and Technology Institute</h3>
+
+<img src="assets/icti_info.svg" width="476" alt="ICTI is a technical institute for people who want to understand how technology really works. It starts with cybersecurity and follows it into the code, networks, operating systems and AI around it. Focus areas: Cybersecurity, Programming &amp; Software Engineering, Artificial Intelligence, Networks &amp; Systems, Vulnerability Research, Technology Research &amp; Analysis. Goal: careful, sourced research and analysis, without hype and without fear, that students, engineers and decision-makers can trust. Principles: Verify, Attribute, Date, Disclose responsibly."/>
+
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+
+<h2>Core Domains</h2>
+<img src="assets/domains.svg" width="489" alt="Systems &amp; Web-Security · Vulnerability Research &amp; Penetration Testing · Threat Intelligence &amp; Defensive Security · Artificial Intelligence, Machine Learning &amp; Deep Learning · Competitive Programming &amp; Algorithmic Problem-Solving · Robotics &amp; Drones"/>
 
 </td>
 </tr>
