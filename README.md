@@ -17,7 +17,7 @@
 <img src="assets/icti_details.svg" width="476" alt="Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
 
 </td>
-<td width="38%" rowspan="2" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="digital padlock"/>
 
@@ -26,7 +26,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td colspan="2" align="left" valign="top">
 
 <h1 align="center"><b>Personal Core Domains</b></h1>
 
