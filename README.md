@@ -28,7 +28,7 @@
 <tr>
 <td align="left" valign="top">
 
-<h2 align="center"><b>Personal Core Domains</b></h2>
+<h1 align="center"><b>Personal Core Domains</b></h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/CYBERSECURITY-0077B6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
