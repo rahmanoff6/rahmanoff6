@@ -10,7 +10,7 @@
 <tr>
 <td width="62%" align="center" valign="top">
 
-<p><img src="assets/icti.png" height="100" align="absmiddle" alt="ICTI"/>&nbsp;&nbsp;<img src="assets/founder.svg" width="230" align="absmiddle" alt="Founder &amp; CEO"/></p>
+<p><img src="assets/icti.png" height="70" align="absmiddle" alt="ICTI"/>&nbsp;&nbsp;<img src="assets/founder.svg" width="230" align="absmiddle" alt="Founder &amp; CEO"/></p>
 
 <h3>International Cybersecurity and Technology Institute</h3>
 
