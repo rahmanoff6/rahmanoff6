@@ -12,7 +12,7 @@
 
 <p><img src="assets/spacer40.svg" width="1" alt=""/><img src="assets/icti.png" height="55" align="absmiddle" alt="ICTI"/>&nbsp;&nbsp;<img src="assets/founder.svg" width="230" align="absmiddle" alt="Founder &amp; CEO"/></p>
 
-<h3>International Cybersecurity and Technology Institute</h3>
+<h3>International Cybersecurity and Technology Investigation</h3>
 
 <img src="assets/icti_details.svg" width="476" alt="Our work encompasses cybersecurity research, software engineering, programming, artificial intelligence, network and systems technologies, and emerging developments across the digital landscape. Focus Areas: Cybersecurity, Threat Intelligence, Programming, Software Engineering, Artificial Intelligence, Emerging Technologies, Networks &amp; Systems, Defensive Operations. Our commitment is to technical integrity, responsible innovation, and the continuous advancement of cybersecurity and technology. Principles: Disclose Responsibly, Research Integrity, Innovation and Development."/>
 
